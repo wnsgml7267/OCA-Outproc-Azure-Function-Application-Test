@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "oca_outproc_azure_functions_application": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7235",
+      "launchBrowser": false
+    }
+  }
+}
